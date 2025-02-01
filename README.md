@@ -1,4 +1,4 @@
-# Speech-to-Text & Lip-Syncing Pipeline**  
+# Speech-to-Text & Lip-Syncing Pipeline  
 
 ## 🚀 Features   
 1. **Translation Support:** Translates extracted text into the target language (optional).  
