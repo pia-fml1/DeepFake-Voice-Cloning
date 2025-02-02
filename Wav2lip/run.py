@@ -407,8 +407,6 @@ while True:
 
         else:
             print(f"Processing failed! :( see line above 👆")
-            print("Consider searching the issues tab on the github:")
-            print("https://github.com/anothermartz/Easy-Wav2Lip/issues")
             exit()
 
     # rename temp file and move to correct directory
@@ -430,8 +428,6 @@ while True:
 
     else:
         print(f"Processing failed! :( see line above 👆")
-        print("Consider searching the issues tab on the github:")
-        print("https://github.com/anothermartz/Easy-Wav2Lip/issues")
         process_failed = True
 
     if batch_process == False:
