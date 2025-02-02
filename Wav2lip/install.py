@@ -91,6 +91,3 @@ load_predictor()
 with open("installed.txt", "w") as f:
     f.write(version)
 print("Installation complete!")
-print(
-    "If you just updated from v8 - make sure to download the updated Easy-Wav2Lip.bat too!"
-)
