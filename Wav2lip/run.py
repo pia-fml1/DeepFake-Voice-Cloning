@@ -15,7 +15,7 @@ from IPython.display import Audio, Image, clear_output, display
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 import configparser
 
-parser = argparse.ArgumentParser(description='Easy-Wav2Lip main run file')
+parser = argparse.ArgumentParser(description='Wav2Lip main run file')
 
 parser.add_argument('-video_file', type=str, 
                     help='Input video file path', required=False, default=False)
